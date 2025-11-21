@@ -82,7 +82,7 @@ npm start
 
 ## 🌐 Live Demo
 **Vercel Link:**  
-_(Add your Vercel link here once deployed)_
+https://bankdash-frontend-task.vercel.app/credit-cards
 
 ---
 
